@@ -23,7 +23,7 @@
         "strictNullChecks": true
       },
         "include": [
-            "src/**/*"
+            "src/**/*", "index.ts", "components"
         ],
         "exclude": [
             "node_modules",
