@@ -1,6 +1,6 @@
 {
   "name": "new-my-typescript-tiyafru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "scripts": {
@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/tiyafru/new-my-typescript-tiyafru/issues"
   },
-  "homepage": "https://github.com/tiyafru/new-my-typescript-tiyafru#readme"
+  "homepage": "https://github.com/tiyafru/new-my-typescript-tiyafru#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.8.1",
+    "@material-ui/styles": "^4.7.1"
+  }
 }
